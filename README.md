@@ -12,3 +12,7 @@ Popularity Prediction:
   - popPredict.pkl: popularity model
   - rocPop: computed ROC curve for this experiment
   - Results: Essentially as good as a fair coin flip
+
+Future considerations
+  - Training set is imbalanced? Resampling or sample replication to balance
+  - Different feature selections should be considered
