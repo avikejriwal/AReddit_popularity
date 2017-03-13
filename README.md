@@ -1,6 +1,8 @@
 # Popularity prediction
 ## Bag-of-words analysis in /r/AskReddit
 ### The attached code collects the titles from the top posts in /r/AskReddit using the Reddit API
+### Experimenting with the Reddit API and the scikit-learn module in Python
+
 
 Thoughts:
 - Apply logistic regression to predict whether or not the post will exceed a given cutoff of upvotes)
